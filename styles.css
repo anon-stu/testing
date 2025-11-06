@@ -1,0 +1,25 @@
+*
+{
+    background-color: rgb(9, 8, 36);
+    color: rgb(57, 171, 42);
+}
+
+.top-menu
+{
+    text-align: right;
+    font-size: x-large;
+    margin-bottom: 30px;
+    margin-right: 30px;
+}
+
+.body-starter
+{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.bottom
+{
+    margin-top: 60px;
+    text-align: center;
+}
